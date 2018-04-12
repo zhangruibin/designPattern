@@ -21,7 +21,7 @@ public class Test {
         productor.registerObsercer(a2);
         productor.registerObsercer(a3);
         productor.creatProduct("包子");
-        System.out.println("----------------------------------------------");
+        System.out.println("-----食客a3吃饱走了-----");
         productor.removeObserver(a3);
         productor.creatProduct("油条");
     }
