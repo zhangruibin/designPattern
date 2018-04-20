@@ -4,7 +4,7 @@ package com.example.factoryPattern;
  * Created by zhangrui on 2018/4/20.
  */
 /*
-* @ClassName FoodFactory
+* @ClassName AbstractFactory
 *@Description TODO 创建食品工厂生产根据订单要求生产食品
 *@Author zhangrui
 *@Date 10:41 10:41
