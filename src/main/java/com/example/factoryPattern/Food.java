@@ -5,7 +5,7 @@ package com.example.factoryPattern;
  */
 /*/**
 * @author zhangrui
-* @Description 食物接口,给出制造食物的方法
+* @Description 食物接口,可以类比食物生产许可证
 * @Date 10:31 2018/4/20
 * @Param
 * @returu

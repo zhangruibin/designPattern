@@ -29,7 +29,7 @@ public class FoodFactory {
                 msg += dumplingProductLine.creat();
             }else {
                 //工厂没有对应的生产线,那就没办法调用生产线生产食物,所以返回提示信息
-                msg = "订单中的食物"+foodType[i]+"我们厂没办法成产,找别家看看吧";
+                msg += "订单中的食物"+foodType[i]+"我们厂没办法成产,找别家看看吧";
             }
         }
         //工厂运行确认完毕

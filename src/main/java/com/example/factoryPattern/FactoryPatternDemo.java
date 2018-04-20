@@ -15,7 +15,7 @@ public class FactoryPatternDemo {
         //声明一个工厂
         FoodFactory foodFactory = new FoodFactory();
         //订单
-        String[] order = {"noodle","dumpling"};
+        String[] order = {"noodle","dumpling","coffee"};
         //购货商向工厂下发订单,经过食品厂操作后返回结果
         String meg = foodFactory.creatFood(order);
         //对返回的结果进行输出
