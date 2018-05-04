@@ -15,7 +15,7 @@ public class AdapterPatternDemo {
         AudioPlayer audioPlayer = new AudioPlayer();
         audioPlayer.play("mp3","Take me to your heart");
         audioPlayer.play("mp4","Flash man");
-        audioPlayer.play("avi","The securit of teacher");
+        audioPlayer.play("avi","The security of teacher");
         audioPlayer.play("mp4","Hero");
     }
 }
