@@ -1,7 +1,7 @@
 package com.example.bridgePattern;
 
 /*
-* @ClassName MeetBaozi
+* @ClassName Filter
 *@Description TODO
 *@Author zhangrui
 *@Date 14:38 14:38
